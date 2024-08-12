@@ -23,3 +23,17 @@ def fibonaci(X: int) -> int:
 
 print("hello")
 
+def matrix(x,y):
+    """
+    This function calculates the product of two numbers.
+
+    Parameters:
+        x (int or float): The first number to be multiplied.
+        y (int or float): The second number to be multiplied.
+
+    Returns:
+        int or float: The product of x and y.
+    """
+    return x*y
+
+
