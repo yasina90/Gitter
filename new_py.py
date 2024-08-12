@@ -20,3 +20,6 @@ def fibonaci(X: int) -> int:
         return 1
     else:
         return fibonaci(X-1) + fibonaci(X-2)
+
+print("hello")
+
